@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { View, StyleSheet, FlatList, Alert } from 'react-native';
-// Add this line to your `index.js`
 import 'react-native-get-random-values';
 import { v4 as uuid } from 'uuid';
 
